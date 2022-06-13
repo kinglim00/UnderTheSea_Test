@@ -68,3 +68,39 @@ body {
     border: 5px;
     border-radius: 50%;
 }
+
+.result_wrapper{
+    background-color: #FFFFFF;
+}
+
+.result_circle{
+    margin: 0 auto;
+    width: 180px;
+    height: 180px;
+    border: 5px;
+    border-radius: 50%;
+    float:left;
+    background-color: #FFFFFF;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-left: 30px;
+    margin-bottom: 35px;
+}
+
+.text_white{
+    color: #FFFFFF;
+}
+
+.result_share{
+    clear: both;
+}
+
+.result_share_box{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.share_icon {
+    width: 80px;
+    height: 80px;
+}
